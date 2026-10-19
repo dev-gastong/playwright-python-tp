@@ -8,7 +8,7 @@ Este proyecto implementa pruebas automatizadas end-to-end (E2E) sobre un módulo
 
 ## 📋 Descripción del Proyecto
 
-El objetivo es realizar los 8 ejercicios del trabajo practico, sobre la aplicacion (`http://localhost:8080`).
+El objetivo es realizar los 8 ejercicios del trabajo practico, sobre alguna pagina (Para el trabajo se utiliza el proyecto de la facultad en contexto local).
 
 ### Estructura del Proyecto
 
