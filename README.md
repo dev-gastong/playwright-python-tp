@@ -80,33 +80,33 @@ playwright-python-tp/
 
 ### 1. Ejecutar todos los tests (modo headless / en segundo plano)
 ```bash
-pytest
+python -m pytest
 ```
 
 ### 2. Ejecutar con navegador visible (modo headed)
 Para observar la interacción en pantalla en tiempo real:
 ```bash
-pytest --headed
+python -m pytest --headed
 ```
 
 ### 3. Ejecutar de forma pausada (slow motion)
 Útil para demostraciones y visualización paso a paso (ejemplo: 1000 ms entre acciones):
 ```bash
-pytest --headed --slowmo 1000
+python -m pytest --headed --slowmo 1000
 ```
 
 ### 4. Ejecutar con salida detallada (verbose)
 ```bash
-pytest -v -s
+python -m pytest -v -s
 ```
 
 ### 5. Ejecutar un test o ejercicio específico
 ```bash
 # Ejecutar un archivo específico
-pytest tests/test_login.py -v
+python -m pytest tests/test_login.py -v
 
 # Filtrar por nombre de prueba (por ejemplo, ejercicios 3 y 4)
-pytest -k "test_ejercicios_3_4" --headed
+python -m pytest -k "test_ejercicios_3_4" --headed
 ```
 
 ---
