@@ -15,6 +15,7 @@ def test_ejercicios_3_4(page: Page):
 
 
 def test_ejercicios_5_6(page: Page):
+    
     login_page = LoginPage(page)
     login_page.navigate()
     login_page.check_title()

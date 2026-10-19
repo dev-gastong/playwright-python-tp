@@ -35,7 +35,7 @@ playwright-python-tp/
 ## 🛠️ Requisitos Previos
 
 1. **Python 3.8+** instalado en el sistema.
-2. Sistema corriendo en local ```java .\gradlew bootRun```  que sirva la aplicación a testear (`login-desktop-claro.html`).
+2. Sistema corriendo en local ```bash .\gradlew bootRun```  que sirva la aplicación a testear (`login-desktop-claro.html`).
 
 ---
 
