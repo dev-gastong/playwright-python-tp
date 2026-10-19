@@ -8,11 +8,7 @@ Este proyecto implementa pruebas automatizadas end-to-end (E2E) sobre un módulo
 
 ## 📋 Descripción del Proyecto
 
-El objetivo es automatizar y validar el comportamiento de una interfaz web de login (`http://localhost:8080`), verificando:
-- Navegación correcta y validación del título de la página.
-- Flujo de login exitoso con credenciales válidas.
-- Flujo de login fallido con validación de mensajes de error en pantalla.
-- Captura de evidencias visuales (screenshots) antes y después de navegar.
+El objetivo es realizar los 8 ejercicios del trabajo practico, sobre la aplicacion (`http://localhost:8080`).
 
 ### Estructura del Proyecto
 
